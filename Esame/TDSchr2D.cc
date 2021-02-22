@@ -5,7 +5,10 @@
 	described by a wave function in a box with infinite
 	potential at borders (wave function is null at the 
 	borders)
-
+	
+	Eigen library is needed to run this program
+	(https://gitlab.com/libeigen/eigen/-/archive/3.3.9/eigen-3.3.9.zip)
+	
 
 	Conventions:
 	
