@@ -44,7 +44,7 @@ double hy = Ly / (Ny-1);	// N-1 spazi tra di essi
 
 double ax = 250.0;		//
 double bx = 260.0;		// dimensioni
-double ay = 0.0;			// barriera 2D
+double ay = 0.0;		// barriera 2D
 double by = Ly;			//
 
 // initial parameters
@@ -108,7 +108,7 @@ int main() {
 	matrixUtil::fillTripletList(tripletList);
 	
 	
-	// build Spare Matrix
+	// build Sparse Matrix
 	M.setFromTriplets(tripletList.begin(), tripletList.end());
 	
 	// build matrix solver
