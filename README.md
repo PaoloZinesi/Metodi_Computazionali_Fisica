@@ -18,10 +18,16 @@ This project employs the open-source library [Eigen](https://gitlab.com/libeigen
 - _v1_ contains the code written in a single main program
 - _v2_ contains the code subdivided into multiple routines
 
+Some sample images are shown below. Here, the evolving wave function is subject to a potential that emulates a double-slit. As expected, the results are consistent with Young's interference experiment.
 <p align="center">
-    <img src="/Esame/images/young_high_1.jpg" width="480">
-    <img src="/Esame/images/young_high_2.jpg" width="480">
-    <br>
-    <img src="/Esame/images/young_high_3.jpg" width="480">
-    <img src="/Esame/images/young_high_4.jpg" width="480">
+    <table border="0">
+        <tr>
+            <td> <img src="/Esame/images/young_high_1.jpg" width="480"> </td>
+            <td> <img src="/Esame/images/young_high_2.jpg" width="480"> </td>
+        </tr>
+        <tr>
+            <td> <img src="/Esame/images/young_high_3.jpg" width="480"> </td>
+            <td> <img src="/Esame/images/young_high_4.jpg" width="480"> </td>
+        </tr>
+    </table>
 </p>
