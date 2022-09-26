@@ -17,3 +17,11 @@ The final exam is a solution of the 2D time-dependent Schrödinger equation desc
 This project employs the open-source library [Eigen](https://gitlab.com/libeigen/eigen/) to optimize matrix equations when matrices are sparse (which is typical in the numerical solution of PDEs).
 - _v1_ contains the code written in a single main program
 - _v2_ contains the code subdivided into multiple routines
+
+<p align="center">
+    <img src="../Esame/images/young_high_1.jpg" width="480">
+    <img src="../Esame/images/young_high_2.jpg" width="480">
+    <br>
+    <img src="../Esame/images/young_high_3.jpg" width="480">
+    <img src="../Esame/images/young_high_4.jpg" width="480">
+</p>
