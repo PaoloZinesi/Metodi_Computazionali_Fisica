@@ -19,9 +19,9 @@ This project employs the open-source library [Eigen](https://gitlab.com/libeigen
 - _v2_ contains the code subdivided into multiple routines
 
 <p align="center">
-    <img src="../Esame/images/young_high_1.jpg" width="480">
-    <img src="../Esame/images/young_high_2.jpg" width="480">
+    <img src="/Esame/images/young_high_1.jpg" width="480">
+    <img src="/Esame/images/young_high_2.jpg" width="480">
     <br>
-    <img src="../Esame/images/young_high_3.jpg" width="480">
-    <img src="../Esame/images/young_high_4.jpg" width="480">
+    <img src="/Esame/images/young_high_3.jpg" width="480">
+    <img src="/Esame/images/young_high_4.jpg" width="480">
 </p>
